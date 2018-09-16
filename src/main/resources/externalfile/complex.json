@@ -1,0 +1,219 @@
+{
+  "achievement": {
+    "interact_count": "214357人",
+    "gift_count": "21122人",
+    "danmu_date": "2018-02-24",
+    "gift_worth": "2018-03-31",
+    "interact_date": "2018-02-24",
+    "danmu_count": "648627条",
+    "gift_date": "2018-03-31"
+  },
+  "index_rank": {
+    "avg_live_duration": "227",
+    "level": "殿堂",
+    "grow_up_index": "-0.05",
+    "rank": "3",
+    "subscribe": "11678628",
+    "new_subscribe": "11678628"
+  },
+  "active_user": [
+    {
+      "user_name": "是谁的小哥哥",
+      "rank_num": 1,
+      "user_id": "154303886",
+      "gift_worth": "￥18000"
+    },
+    {
+      "user_name": "张大仙的假小弟",
+      "rank_num": 2,
+      "user_id": "180989412",
+      "gift_worth": "￥1000"
+    },
+    {
+      "user_name": "仙仙的三个卷卷",
+      "rank_num": 3,
+      "user_id": "179751598",
+      "gift_worth": "￥906.1"
+    },
+    {
+      "user_name": "交闪现躲奶",
+      "rank_num": 4,
+      "user_id": "186306350",
+      "gift_worth": "￥500"
+    },
+    {
+      "user_name": "大仙哥哥好大呀",
+      "rank_num": 5,
+      "user_id": "153989505",
+      "gift_worth": "￥324"
+    },
+    {
+      "user_name": "以688之名",
+      "rank_num": 6,
+      "user_id": "180563758",
+      "gift_worth": "￥300.1"
+    },
+    {
+      "user_name": "大仙心尖儿大宝贝",
+      "rank_num": 7,
+      "user_id": "46054016",
+      "gift_worth": "￥300"
+    },
+    {
+      "user_name": "旅人柳仙儿",
+      "rank_num": 8,
+      "user_id": "194156197",
+      "gift_worth": "￥248"
+    },
+    {
+      "user_name": "咬牙切齿张大仙",
+      "rank_num": 9,
+      "user_id": "175559083",
+      "gift_worth": "￥200"
+    },
+    {
+      "user_name": "你亖爷",
+      "rank_num": 10,
+      "user_id": "161833974",
+      "gift_worth": "￥200"
+    }
+  ],
+  "platform_id": "2",
+  "platform": "斗鱼",
+  "base_data": {
+    "gift_users": "1606",
+    "peak_popu": "4025368",
+    "gift_amount": "36200.1",
+    "danmaku_count": "251723",
+    "danmaku_users": "110467",
+    "live_duration": "258",
+    "sub_users": "11678628"
+  },
+  "room_id": "688",
+  "gift_detail": [
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:26"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:25"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:24"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:23"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:22"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:22"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:21"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:20"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "154303886",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1707/c3f3f69e1fdc4f9b2c02a7bcd30334eb.gif",
+      "gift_name": "超级火箭",
+      "user_name": "是谁的小哥哥",
+      "gift_time": "2018-06-0123:59:19"
+    },
+    {
+      "gift_count": "1个",
+      "user_id": "180989412",
+      "gift_img": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/dygift/1606/39b578b3cb8645b54f9a1001c392a237.gif",
+      "gift_name": "火箭",
+      "user_name": "张大仙的假小弟",
+      "gift_time": "2018-06-0122:50:35"
+    }
+  ],
+  "rich_man": [
+    {
+      "ratio": "占比-",
+      "gift_person_num": "(-人)",
+      "total_gift_consume": "-元",
+      "gift_person_list": [],
+      "rich_level": "二星土豪",
+      "day": "2018-06-01"
+    },
+    {
+      "ratio": "占比-",
+      "gift_person_num": "(-人)",
+      "total_gift_consume": "-元",
+      "gift_person_list": [],
+      "rich_level": "四星土豪",
+      "day": "2018-06-01"
+    },
+    {
+      "ratio": "占比-",
+      "gift_person_num": "(-人)",
+      "total_gift_consume": "-元",
+      "gift_person_list": [],
+      "rich_level": "一星土豪",
+      "day": "2018-06-01"
+    },
+    {
+      "ratio": "占比-",
+      "gift_person_num": "(-人)",
+      "total_gift_consume": "-元",
+      "gift_person_list": [],
+      "rich_level": "三星土豪",
+      "day": "2018-06-01"
+    }
+  ],
+  "anchor_info": {
+    "category": "王者荣耀",
+    "anchor_name": "指法芬芳张大仙",
+    "anchor_id": "ID:688",
+    "title": "大仙又来啦",
+    "platform_name": "斗鱼",
+    "avatar": "http://image1.xiaohulu.com/2/d5bf4a38cc555c02fba2e9e5a63c0ae0.jpg",
+    "live_url": "http://www.douyu.com/688"
+  },
+  "day": "2018-06-01"
+}

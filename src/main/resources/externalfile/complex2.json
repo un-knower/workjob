@@ -1,0 +1,23 @@
+{
+  "partner_code": "demo",
+  "app_name": "web",
+  "person_info": {
+    "name": "张三",
+    "age": 18
+  },
+  "items": [
+    {
+      "item_id": 1,
+      "item_name": "王家村",
+      "group": "group1"
+    },
+    {
+      "item_id": 2,
+      "item_name": "李家澡堂",
+      "item_detail": {
+        "platform_count": 2
+      },
+      "group": "group2"
+    }
+  ]
+}
