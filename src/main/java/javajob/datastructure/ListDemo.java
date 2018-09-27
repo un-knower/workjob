@@ -1,4 +1,4 @@
-package javajob.datastructure.list;
+package javajob.datastructure;
 
 import java.util.*;
 
