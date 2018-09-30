@@ -28,4 +28,15 @@ ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ','
 ;
 
+sqoop import \
+--connect jdbc:mysql://172.16.6.69:3306/music \
+--username etladmin \
+--password adminetl_MK_123 \
+--table user_channel \
+--hbase-table realtime:user_channel \
+--column-family channel \
+--hbase-row-key id \
+--hbase-create-table \
+--hbase-bulkload
+
 
