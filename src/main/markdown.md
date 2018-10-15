@@ -50,3 +50,34 @@
  行内式链接形式：[超链接文字]("http://write.blog.csdn.net/postlist") 
 
 欢迎大家访问<a href="http://write.blog.csdn.net/postlist" target="_blank">麦田里的码农</a>
+
+
+## 画图
+~~~puml
+a->b
+a -> c
+a-->d
+~~~
+fdgfdgfdgfdg
+~~~plantuml
+@startuml
+a->a:自己到自己
+newpage
+c->c
+d->d
+e->c
+@enduml
+~~~
+~~~puml
+a->b
+newpage
+~~~
+
+## 目录
+* [1.语法示例](#1)
+
+* [1.1图片](#1.1)
+
+* [1.2换行](#1.2)
+
+* [1.3强调](#1.3)

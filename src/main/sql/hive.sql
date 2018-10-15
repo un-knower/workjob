@@ -28,15 +28,20 @@ ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ','
 ;
 
-sqoop import \
---connect jdbc:mysql://172.16.6.69:3306/music \
---username etladmin \
---password adminetl_MK_123 \
---table user_channel \
---hbase-table realtime:user_channel \
---column-family channel \
---hbase-row-key id \
---hbase-create-table \
---hbase-bulkload
+CREATE TABLE ods_abnormality_class (
+  id int,
+  class_id int,
+  student_id int,
+  time_class int,
+  teacher_id int,
+  fail_type int,
+  fail_reason string,
+  is_done int,
+  time_created int,
+  time_updated int,
+  is_deleted int,
+  insert_time string
+)
+ partitioned by (dt string)
 
 
